@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+      {
+        "nome": "Alice Silva",
+        "senha": "P@ssw0rd1",
+        "email": "alice.silva@example.com"
+      },
+      {
+        "nome": "Carlos Santos",
+        "senha": "SecurePass123",
+        "email": "carlos.santos@example.com"
+      },
+      {
+        "nome": "Eva Oliveira",
+        "senha": "Secret123!",
+        "email": "eva.oliveira@example.com"
+      },
+      {
+        "nome": "Gustavo Lima",
+        "senha": "StrongP@ss",
+        "email": "gustavo.lima@example.com"
+      },
+      {
+        "nome": "Isabela Pereira",
+        "senha": "MyP@ssw0rd",
+        "email": "isabela.pereira@example.com"
+      }
+    ]
+  }
