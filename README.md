@@ -39,7 +39,8 @@ Análise de projeto, casos de testes, evidências de teste
 
 ![CT - 1](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%201.png)<br>
 
-<h4>🪲 CT = Login:</h4>
+<h4>![image](https://github.com/user-attachments/assets/788a3a8c-5d6f-413a-a901-958d693f7cd6)
+ CT = Login:</h4>
 
 ![CT - 2 ](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%202%20.png)
 
