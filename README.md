@@ -35,8 +35,12 @@ Análise de projeto, casos de testes, evidências de teste
 ![login page](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%20-%20Perfil/CT%20-%2001.png)
 
 <h3>🪲 BDD:</h3>
+<h4>🪲 CT = Pagina inicial:</h4>
 
-![CT - 1](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%201.png)
+![CT - 1](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%201.png)<br>
+
+<h4>🪲 CT = Login:</h4>
+
 ![CT - 2 ](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%202%20.png)
 
 
@@ -49,7 +53,7 @@ Código feito com javascript e o framework Cypress.
 
 ![login page](https://github.com/deivissonnreis/Adopet-QA/blob/main/User%20Story.png)
 
- Miro: <a href='linkedin.com/in/deivisson-reisc/'>User Story</a><br>
+ Miro: <a href='https://miro.com/app/board/uXjVKvlf4PE=/?share_link_id=924589811452'>User Story</a><br>
 
 
 <h2>🔗Links:</h2>
