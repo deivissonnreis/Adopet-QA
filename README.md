@@ -1,14 +1,12 @@
 # <h1> Adopet ✅</h1>
 
-Análise de projeto, casos de testes, evidências de teste
-
 <h2>🔧 Ferramentas:</h2>
 • Excel<br>
 • Screenpresso<br>
 • Cypress<br>
 • Gherkin<br>
 
-<h2>🪲 Casos de testes:</h2>
+<h2>📜 Casos de testes:</h2>
 
 <h4>Tela inicial:</h4>
 
@@ -34,13 +32,12 @@ Análise de projeto, casos de testes, evidências de teste
 
 ![login page](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%20-%20Perfil/CT%20-%2001.png)
 
-<h3>🪲 BDD:</h3>
-<h4>🪲 CT = Pagina inicial:</h4>
+<h3>✍🏽 BDD:</h3>
+<h4>✍🏽 CT = Pagina inicial:</h4>
 
 ![CT - 1](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%201.png)<br>
 
-<h4>![image](https://github.com/user-attachments/assets/788a3a8c-5d6f-413a-a901-958d693f7cd6)
- CT = Login:</h4>
+<h4>✍🏽 CT = Login:</h4>
 
 ![CT - 2 ](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%202%20.png)
 
@@ -50,7 +47,7 @@ Análise de projeto, casos de testes, evidências de teste
 ![cadastro](https://github.com/deivissonnreis/Adopet-QA/blob/main/Automatização%20-%20Cypress/Cypress.png)
 Código feito com javascript e o framework Cypress.
 
-<h2>User Story:</h2>
+<h2>👤 User Story:</h2>
 
 ![login page](https://github.com/deivissonnreis/Adopet-QA/blob/main/User%20Story.png)
 
