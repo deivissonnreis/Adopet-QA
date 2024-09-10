@@ -33,11 +33,11 @@
 ![login page](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%20-%20Perfil/CT%20-%2001.png)
 
 <h3>✍🏽 BDD:</h3>
-<h4>✍🏽 CT = Pagina inicial:</h4>
+<h4>✍🏽 CT - Pagina inicial:</h4>
 
 ![CT - 1](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%201.png)<br>
 
-<h4>✍🏽 CT = Login:</h4>
+<h4>✍🏽 CT - Login:</h4>
 
 ![CT - 2 ](https://github.com/deivissonnreis/Adopet-QA/blob/main/CT%202%20.png)
 
